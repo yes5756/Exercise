@@ -1,2 +1,5 @@
 def rectangle(length, width):
-    return print("Make a change")
+    area = length*width
+    print(area)
+
+rectangle(3, 5)
